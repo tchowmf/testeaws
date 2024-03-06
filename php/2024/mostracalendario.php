@@ -78,7 +78,7 @@ $conn->close();
 
 <h4>
     <p align="center">
-        <font face="calibri"><a style="color: #000000" href="../../index.html">Voltar a página principal</a></font>
+        <font face="calibri"><a style="color: #000000" href="../../index.php">Voltar a página principal</a></font>
     </p>
 </h4>
 <p align='center'><font face="calibri" size="2">tchowzin Copyright all rights reserved© 2024.</p>

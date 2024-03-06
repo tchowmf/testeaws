@@ -120,7 +120,7 @@
         <hr color="#FFFF99">
         <h4>
             <p align="center">
-                <font face="calibri"><a style="color: #000000" href="../../index.html">Voltar a página principal</a></font>
+                <font face="calibri"><a style="color: #000000" href="../../index.php">Voltar a página principal</a></font>
             </p>
         </h4>
     </FORM>
