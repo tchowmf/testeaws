@@ -6,8 +6,8 @@
     <FORM ACTION="enviapalpsql2.php" method="post">
         <pre>
             <font face="calibri" size="3" color="#000000">
-                <h4><p align='left'><b>CAMPEONATO MUNDIAL DE FÓRMULA 1 - GRANDE PRÊMIO - BAHREIN<br><BR>CIRCUITO SAKHIR<br></b></p></h4>
-                <input type="hidden" name="race" value="BAHREIN">
+                <h4><p align='left'><b>CAMPEONATO MUNDIAL DE FÓRMULA 1 - GRANDE PRÊMIO - ARÁBIA SAUDITA<br><BR>CIRCUITO JEDDAH<br></b></p></h4>
+                <input type="hidden" name="race" value="JEDDAH">
                 <br><b>Selecione o participante:</b> <select size="1" name="combo_box_part">
                     <option value='33'>Escolha um participante</option>
                     <option value='1'>Tchowzin</option>
