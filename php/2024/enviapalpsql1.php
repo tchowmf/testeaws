@@ -21,10 +21,10 @@
                 </b><br><br><br><b>Selecione a POLE POSITION: </b><br><br>(5 pontos) 01) <select size="1" name="combo_box_pole">
                     <?php
                     // Conexão com o banco de dados
-                    $servername = "localhost";
-                    $username = "root";
-                    $password = "";
-                    $dbname = "test";
+                    $servername = "o677vxfi8ok6exrd.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+                    $username = "dus6hc2j9924pph1";
+                    $password = "dlehpqbwph9imq4b";
+                    $dbname = "wviodp4jxv0bpshs";
 
                     $conn = new mysqli($servername, $username, $password, $dbname);
 

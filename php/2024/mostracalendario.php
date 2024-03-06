@@ -39,10 +39,10 @@
 
 <?php
 // Conexão com o banco de dados
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "test";
+$servername = "o677vxfi8ok6exrd.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$username = "dus6hc2j9924pph1";
+$password = "dlehpqbwph9imq4b";
+$dbname = "wviodp4jxv0bpshs";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
